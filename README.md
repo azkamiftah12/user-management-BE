@@ -1,6 +1,7 @@
 Sebelum menjalankan backend service untuk user manajemen, silahkan jalankan ikuti beberapa langkah dibawah:
 
 sesuaikan .env untuk connect ke postgres. di bawah ini merupakan settingan .env saya
+<br>
 DB_CONNECTION=psql
 DB_HOST=127.0.0.1
 DB_PORT=5432
